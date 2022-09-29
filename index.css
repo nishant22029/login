@@ -1,0 +1,47 @@
+body{
+    background-color: aqua;
+}
+h1{
+    color:rgb(13, 48, 48) ;
+}
+#email
+{
+    word-spacing:3px;
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-display: initial;
+    color:  rgb(4, 34, 4);
+}
+#btn
+{
+    background-color: aquamarine;
+    border-color: rgb(65, 4, 4);
+    font-size: 20px;
+}
+#password
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-display: initial;
+    color: rgb(4, 34, 4);
+    word-spacing:3px;
+    
+}
+form{
+    border: 2px solid black;
+    margin: auto;
+    padding: 40px;
+            width: 40%;
+            margin:auto;
+            box-shadow: inset;
+            border-radius: 10px;
+}
+.input1
+{
+    border-radius: 10px;
+    margin: 2px;
+}
+body{
+    background-image: url(images.jpg);
+}
